@@ -1,1 +1,1 @@
-[![mindmap Wildberries](https://img.shields.io/badge/-<mindmap Wildberries>-<COLOR>)](https://docs.google.com/spreadsheets/d/1q3VGynQLgiVb1ZKnUqmS87FwlebgR7f6LqKKTutQt4A/edit?usp=sharing)
+[![mindmap Wildberries](https://img.shields.io/badge/-<mindmap Wildberries>-<COLOR>)](https://disk.yandex.ru/i/tR2DqA5GUeTAyw)
