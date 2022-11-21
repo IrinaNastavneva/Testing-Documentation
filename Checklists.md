@@ -1,1 +1,1 @@
-[![Checklists](https://img.shields.io/badge/-<Checklists>-<COLOR>)](https://docs.google.com/document/d/1BwK5N-lUfWgZvL9CAL3ti-J0E8vUwRytYW8D8C7ggnE/edit?usp=sharing)
+[![Checklists](https://img.shields.io/badge/-<Checklists>-<COLOR>)](https://docs.google.com/spreadsheets/d/1Ff6RZz_0U6xiXtBUpfgWZP0XoRxGC8PVKUF9Y7e32SM/edit?usp=sharing)
