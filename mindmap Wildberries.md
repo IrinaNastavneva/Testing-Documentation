@@ -1,1 +1,0 @@
-[![mindmap Wildberries](https://img.shields.io/badge/-<mindmap Wildberries>-<COLOR>)](https://disk.yandex.ru/i/tR2DqA5GUeTAyw)

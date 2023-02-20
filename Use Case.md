@@ -1,1 +1,0 @@
-[![Use Case](https://img.shields.io/badge/-<Use Case>-<COLOR>)](https://docs.google.com/document/d/1Xxk7H1zCt1-7WBBZXI9Z01JKf9IG9aNSLOOV1MnzVDk/edit?usp=sharing)

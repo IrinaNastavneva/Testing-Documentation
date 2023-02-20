@@ -1,1 +1,0 @@
-[![Test-Cases](https://img.shields.io/badge/-<Test-Cases>-<COLOR>)](https://docs.google.com/spreadsheets/d/1q3VGynQLgiVb1ZKnUqmS87FwlebgR7f6LqKKTutQt4A/edit?usp=sharing)
